@@ -28,8 +28,8 @@ Beschrijf voor elk onderdeel uit het inleverdocument:
 
 ## Verbeter
 
-- Verander plaatje (background0-image) van de zombie als hij een berichtje krijgt
+- Verander het plaatje (background-image) van de zombie als hij een berichtje krijgt
 - Maak start en eindscherm (https://github.com/HR-CMGT/CMTTHE04-Week6-oefening3)
-- Maak score werkend (elke telefoon levert een punt op)
+- Maak score werkend (elke telefoon die je oppakt levert een punt op)
 - Kan de besturing beter?
 
