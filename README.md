@@ -19,11 +19,11 @@
 
 - Ga naar: https://github.com/HR-CMGT/Typescript/blob/master/inleverdocument8.md
 - Beschrijf voor elk onderdeel uit het inleverdocument:
--- Waar kan je dit in het spel vinden?
--- Is het correct geimplementeerd? 
--- Wat had er beter gekund?
--- Waarom is dat (g)een goede plek?
--- Had het ook nog op een andere plek gebruikt kunnen worden?
+ - Waar kan je dit in het spel vinden?
+ - Is het correct geimplementeerd? 
+ - Wat had er beter gekund?
+ - Waarom is dat (g)een goede plek?
+ - Had het ook nog op een andere plek gebruikt kunnen worden?
 
 ## Verbeter
 
