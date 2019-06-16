@@ -1,0 +1,3 @@
+interface MoveStrategy {
+    move():void;
+}

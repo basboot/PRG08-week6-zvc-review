@@ -1,0 +1,44 @@
+html, body {
+    background-color: #70CF51;
+    font-family: 'Press Start 2P', cursive;
+    overflow:hidden;
+    margin:0px; padding:0px;
+    background-image: url('../images/grass.png');
+    background-repeat: repeat;
+}
+
+script {
+    display: none !important;
+}
+
+body * {
+    position: absolute;
+    display: block;
+    margin:0px; padding:0px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+}
+
+phone-component {
+	width:50px; min-height:92px;
+	background-image: url('../images/phone.png');
+}
+
+zombie-component {
+	width:67px; min-height:119px;
+	background-image: url('../images/zombie.png');
+}
+
+chicken-component {
+    width:67px; height:110px;
+    background-image: url('../images/chickenwalking.gif');
+}
+
+ui {
+    font-size:42px;
+    text-shadow: 8px 8px 0px black;
+    color:white;
+    padding:20px;
+    width:100%;
+    text-align: center;
+}
